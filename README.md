@@ -34,6 +34,9 @@ src/
       use-cases/
         create-user.use-case.ts
         get-user.use-case.ts
+        list-user.use-case.ts
+        update-user.use-case.ts
+        delete-user.use-case.ts
     domain/
       entities/
         user.entity.ts
@@ -54,7 +57,7 @@ test/
 
 - **Ports**: Defined as interfaces in `application/ports`. E.g., `IUserRepository`.
 - **Adapters**: Implementations in `infrastructure/adapters`. E.g., `InMemoryUserRepository`.
-- **Use Cases**: Application logic in `application/use-cases`. E.g., `CreateUserUseCase`, `GetUserUseCase`.
+- **Use Cases**: Application logic in `application/use-cases`. E.g., `CreateUserUseCase`, `GetUserUseCase`, `ListUsersUseCase`, `UpdateUserUseCase`, `DeleteUserUseCase`.
 
 ### Clean Code Principles
 
@@ -83,6 +86,14 @@ test/
 ## License
 
 MIT
+
+---
+
+## Connect with me
+
+- GitHub: [abdulrahmanmahmood](https://github.com/abdulrahmanmahmood)
+- LinkedIn: [Abdulrahman Mahmood](https://www.linkedin.com/in/abdulrahmanmahmood/)
+- Twitter/X: [@abdulrahmanmood](https://twitter.com/abdulrahmanmood)
 
 ---
 
