@@ -92,8 +92,8 @@ MIT
 ## Connect with me
 
 - GitHub: [abdulrahmanmahmood](https://github.com/abdulrahmanmahmood)
-- LinkedIn: [Abdulrahman Mahmood](https://www.linkedin.com/in/abdulrahmanmahmood/)
-- Twitter/X: [@abdulrahmanmood](https://twitter.com/abdulrahmanmood)
+- LinkedIn: [Abdulrahman Mahmood](https://www.linkedin.com/in/abdulrahman-mahmoud-elsobky/)
+
 
 ---
 
